@@ -3,7 +3,8 @@
 You’ll be able to boil your eggs to perfection depending on how you prefer your eggs. 
 <br><br>
 There is a timmer set for all types of eggs and once the time will be up, an alarming sound will we played.
-
+<br>
+It will be working on fine on any screen size.
 ## Used
 
 * Swift Collection types - Dictionaries
@@ -22,3 +23,5 @@ There is a timmer set for all types of eggs and once the time will be up, an ala
 ![Screenshot 2022-06-09 at 9 00 13 AM](https://user-images.githubusercontent.com/91361896/172758253-4c43e47d-f683-43be-b128-38f9ee707ec8.png)
 
 ![Screenshot 2022-06-09 at 9 00 24 AM](https://user-images.githubusercontent.com/91361896/172758259-e0c48dc9-d2e7-42d3-8008-34e8b51ece03.png)
+
+![Screenshot 2022-06-09 at 9 03 23 AM](https://user-images.githubusercontent.com/91361896/172758547-be36b2e8-bfb4-4761-a9a8-c18e524780f3.png)
